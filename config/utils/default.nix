@@ -12,7 +12,7 @@
     ./markdown-preview.nix
     ./mini.nix
     ./neocord.nix
-    ./neotest.nix
+    # ./neotest.nix
     ./nvim-autopairs.nix
     ./nvim-surround.nix
     ./nvterm.nix
@@ -40,7 +40,7 @@
     markdown-preview.enable = lib.mkDefault false;
     mini.enable = lib.mkDefault true;
     neocord.enable = lib.mkDefault true;
-    neotest.enable = lib.mkDefault false;
+    # neotest.enable = lib.mkDefault false;
     nvim-autopairs.enable = lib.mkDefault true;
     colorizer.enable = lib.mkDefault true;
     nvim-surround.enable = lib.mkDefault true;
