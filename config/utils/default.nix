@@ -12,7 +12,7 @@
     ./markdown-preview.nix
     ./mini.nix
     ./neocord.nix
-    ./neotest.nix
+    # ./neotest.nix
     ./nvim-autopairs.nix
     ./nvim-surround.nix
     ./nvterm.nix
